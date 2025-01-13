@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.btn{
+ 
+  font-size: 1.4rem;
+  border: none;
+  padding: .5rem;
+  border-radius: 5px;
+  background-color: yellow;
+  margin: 2rem ;
+}

@@ -1,0 +1,24 @@
+*{
+  font-size: 1.3rem;
+  color: #222;
+  margin: 0;
+}
+
+li{
+  list-style: none;
+  margin: 1rem 0;
+  text-transform: capitalize;
+}
+
+.Header{
+  background-color: #0ef;
+  border: 2px solid #222;
+  text-align: center;
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.list{
+  text-align: center;
+
+}
